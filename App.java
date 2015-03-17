@@ -41,10 +41,10 @@ public class App
         names.add("mwall@csumb.edu");
         names.add("jomolina@csumb.edu");
         names.add("anaperez@csumb.edu");
-	names.add("almendoza@csumb.edu");
+		names.add("almendoza@csumb.edu");
         names.add("lchilders@csumb.edu");
         names.add("jsainz@csumb.edu");
-	names.add("alerodriguez@csumb.edu");
+		names.add("alerodriguez@csumb.edu");
         names.add("jsullivan@csumb.edu");
         Collections.shuffle(names, new Random(assignmentNumber));
 
